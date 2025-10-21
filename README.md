@@ -10,7 +10,6 @@ This project demonstrates a professional, responsive, and interactive web design
 
 ## Technologies Used
 - **Frontend:** HTML, CSS, JavaScript  
-- **Design:** Responsive layout, animations 
 
 ## How to Run Locally
 1. Clone the repository:
